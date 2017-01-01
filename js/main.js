@@ -91,7 +91,7 @@ for (var i = 0, ii = classItems.length; i < ii; i++)
 }
 
 /*
-* Bonus: Query selector
+* Task 5: Query selector
 * https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
 * 
 * querySelectorAll
@@ -100,7 +100,7 @@ for (var i = 0, ii = classItems.length; i < ii; i++)
 * Here's an example of querySelector and querySelectorAll which combine all of the above
 */
 
-console.log('::Bonus::');
+console.log('::Task 5::');
 
 var singleItem = document.querySelector('#pageTitle');
 alert(singleItem.nodeName);
